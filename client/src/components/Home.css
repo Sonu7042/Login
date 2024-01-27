@@ -1,0 +1,12 @@
+.div1{
+    display: flex;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.div12{
+    align-items: center;
+    font-size: 40px;
+}
